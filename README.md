@@ -17,3 +17,4 @@ Implemented in Python
 5. [Indirection](indirection.py)
 6. [Low Coupling](low_coupling.py)
 7. [High Cohesion](high_cohesion.py)
+8. [Polymorphism](polymorphism.py)
