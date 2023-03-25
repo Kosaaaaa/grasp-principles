@@ -2,11 +2,6 @@
 
 Implemented in Python
 
-## Testimonials:
-
-* Inspired by [@ArjanCodes](https://github.com/ArjanCodes)
-* [GRASP Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-
 ## Principles List:
 
 1. [Creator](creator.py)
@@ -18,3 +13,8 @@ Implemented in Python
 7. [High Cohesion](high_cohesion.py)
 8. [Polymorphism](polymorphism.py)
 9. [Pure Fabrication](pure_fabrication.py)
+
+### Testimonials:
+
+* Inspired by [@ArjanCodes](https://github.com/ArjanCodes)
+* [GRASP Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
