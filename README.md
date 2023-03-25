@@ -11,3 +11,4 @@ Implemented in Python
 ## Patterns List:
 
 1. [Creator](creator.py)
+2. [Information Expert](information_expert.py)
