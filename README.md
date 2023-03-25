@@ -5,10 +5,9 @@ Implemented in Python
 ## Testimonials:
 
 * Inspired by [@ArjanCodes](https://github.com/ArjanCodes)
-
 * [GRASP Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
 
-## Patterns List:
+## Principles List:
 
 1. [Creator](creator.py)
 2. [Information Expert](information_expert.py)
@@ -18,3 +17,4 @@ Implemented in Python
 6. [Low Coupling](low_coupling.py)
 7. [High Cohesion](high_cohesion.py)
 8. [Polymorphism](polymorphism.py)
+9. [Pure Fabrication](pure_fabrication.py)
