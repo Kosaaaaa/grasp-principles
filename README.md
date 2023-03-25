@@ -16,3 +16,4 @@ Implemented in Python
 4. [Protected Variation](protected_variation.py)
 5. [Indirection](indirection.py)
 6. [Low Coupling](low_coupling.py)
+7. [High Cohesion](high_cohesion.py)
