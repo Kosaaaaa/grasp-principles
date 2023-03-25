@@ -1,0 +1,25 @@
+[tool.isort]
+profile = "black"
+
+[tool.mypy]
+warn_unused_ignores = true
+warn_redundant_casts = true
+strict = true
+disallow_subclassing_any = false
+
+[tool.ruff]
+select = [
+    "E", # pycodestyle errors
+    "W", # pycodestyle warnings
+    "F", # pyflakes
+    "C", # flake8-comprehensions
+    "B", # flake8-bugbear
+]
+ignore = [
+    "E501", # line too long, handled by black
+    "B008", # do not perform function calls in argument defaults
+]
+
+[tool.black]
+line-length = 120
+target-version = ['py311']
