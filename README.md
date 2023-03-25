@@ -15,3 +15,4 @@ Implemented in Python
 3. [Controller](controller.py)
 4. [Protected Variation](protected_variation.py)
 5. [Indirection](indirection.py)
+6. [Low Coupling](low_coupling.py)
