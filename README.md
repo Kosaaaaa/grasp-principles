@@ -14,3 +14,4 @@ Implemented in Python
 2. [Information Expert](information_expert.py)
 3. [Controller](controller.py)
 4. [Protected Variation](protected_variation.py)
+5. [Indirection](indirection.py)
