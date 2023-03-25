@@ -12,3 +12,4 @@ Implemented in Python
 
 1. [Creator](creator.py)
 2. [Information Expert](information_expert.py)
+3. [Controller](controller.py)
